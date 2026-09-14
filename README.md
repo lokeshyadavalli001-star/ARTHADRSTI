@@ -38,7 +38,7 @@ The objective of ARTHADṚṢṬI is to provide a centralized analytical view of
 
 ---
 
-# 🧭 Business Areas Covered
+#  Business Areas Covered
 
 ARTHADṚṢṬI focuses on four major analytical areas:
 
