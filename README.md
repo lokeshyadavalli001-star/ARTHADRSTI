@@ -20,6 +20,8 @@ The project was designed with a **client-facing BI and consulting mindset**, foc
 <img width="1321" height="738" alt="Screenshot 2026-09-14 105135" src="https://github.com/user-attachments/assets/3bfb3a46-0a5b-4ab1-8857-9d24ebf8a049" />
 # Page 4
 <img width="1308" height="737" alt="Screenshot 2026-09-14 105149" src="https://github.com/user-attachments/assets/b3ad49f1-e385-435e-9d4a-7cf280707701" />
+# Page 5 Geographic Wise Distributions
+<img width="1286" height="736" alt="Screenshot 2026-09-14 115627" src="https://github.com/user-attachments/assets/7ec57706-a609-40f8-aa1c-e40958ae81bb" />
 
 ---
 
