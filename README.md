@@ -8,6 +8,10 @@
 
 The project was designed with a **client-facing BI and consulting mindset**, focusing not only on visualization, but also on data quality, analytical modeling, KPI design, operational analysis, and decision-oriented reporting.
 
+
+Amazon Sales Dataset Source.
+https://www.kaggle.com/datasets/thedevastator/unlock-profits-with-e-commerce-sales-data
+
 ---
 
 ##  Dashboard Preview
